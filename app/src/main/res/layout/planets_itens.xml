@@ -26,12 +26,12 @@
                 android:layout_height="0dp"
                 android:layout_margin="0dp"
                 android:adjustViewBounds="true"
-                android:src="@drawable/ic_launcher_background"
                 android:padding="0dp"
                 android:scaleType="fitXY"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+            <!--android:src="@drawable/ic_launcher_background"-->
 
 
             <LinearLayout

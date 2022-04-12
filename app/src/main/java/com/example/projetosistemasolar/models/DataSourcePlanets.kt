@@ -1,4 +1,4 @@
-package com.example.projetosistemasolar.moldsData
+package com.example.projetosistemasolar.models
 
 class DataSourcePlanets {
 

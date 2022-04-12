@@ -1,7 +1,8 @@
-package com.example.projetosistemasolar
+package com.example.projetosistemasolar.models
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.projetosistemasolar.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
