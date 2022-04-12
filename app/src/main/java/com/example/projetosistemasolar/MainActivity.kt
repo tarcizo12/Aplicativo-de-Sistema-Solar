@@ -1,4 +1,4 @@
-package com.example.projetosistemasolar.models
+package com.example.projetosistemasolar
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

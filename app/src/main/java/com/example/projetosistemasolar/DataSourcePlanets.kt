@@ -1,4 +1,6 @@
-package com.example.projetosistemasolar.models
+package com.example.projetosistemasolar
+
+import com.example.projetosistemasolar.models.Planets
 
 class DataSourcePlanets {
 
