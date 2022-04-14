@@ -4,35 +4,28 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.projetosistemasolar.R
-import com.example.projetosistemasolar.models.Planets
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var planetAdapter: PlanetsAdapter
-
+    private  lateinit var planetsAdapter: PlanetsAdapter
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-
-        initRecyclerView()
-        addDataSource()
+        initRyclerView()
+        addDataSourcePlanets()
     }
 
-    private fun addDataSource() {
-        val dataSource = DataSourcePlanets.createDataSet()
-        this.planetAdapter.setDataSet(dataSource)
+    private fun addDataSourcePlanets() {
+        val dataSource  =DataSourcePlanets.createDataSet()
+        this.planetsAdapter.setDataSet(dataSource)
     }
 
-    private fun initRecyclerView() {
+    private fun initRyclerView() {
+        this.planetsAdapter  = PlanetsAdapter()
 
 
-        this.planetAdapter = PlanetsAdapter()
-
-        listPlanetsRecyclerView.layoutManager = LinearLayoutManager(this)
-        listPlanetsRecyclerView.adapter = this.planetAdapter
-
-
+        listOfPlanets.layoutManager = LinearLayoutManager(this)
+        listOfPlanets.adapter  = this.planetsAdapter
     }
 }

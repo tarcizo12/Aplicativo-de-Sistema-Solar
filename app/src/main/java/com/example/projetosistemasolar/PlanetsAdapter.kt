@@ -18,18 +18,18 @@ class PlanetsAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>(){
     }
 
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
-                    when(holder){
-                        is PlanetViewHolder ->{
-                            holder.bind(planets[position])
-                        }
-                    }
+        when(holder){
+            is PlanetViewHolder ->  {
+                holder.bind(planets[position])
+            }
+        }
     }
 
     override fun getItemCount(): Int {
         return planets.size
     }
 
-    fun setDataSet (planets: List <Planets>){
+    fun setDataSet(planets: List<Planets>){
         this.planets = planets
     }
 
