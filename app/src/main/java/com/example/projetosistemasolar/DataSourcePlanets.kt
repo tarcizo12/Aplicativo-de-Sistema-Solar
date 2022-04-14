@@ -94,20 +94,6 @@ class DataSourcePlanets {
 
                 )
 
-                planetsList.add(
-                    Planets(
-                    "Urano",
-                    "O sétimo planeta a partir do Sol foi o primeiro a ser descoberto com o auxílio de um telescópio em 1781. À semelhança de Vênus, o sentido de rotação de Urano é retrógrado relativamente ao da maioria dos " +
-                            "corpos do Sistema Solar. Além disso, seu eixo de rotação é extremamente inclinado, fazendo com que cada um dos polos do planeta fique diretamente voltado para o Sol durante um longo período. A atmosfera " +
-                            "de Urano, formada principalmente de hidrogênio e hélio, além de uma pequena quantidade de metano (responsável pela coloração azul-esverdeada) e água, mostra-se dinâmica conforme as mudanças de estação do " +
-                            "planeta. No seu interior, possivelmente se aloja uma camada líquida de água, metano e amônia. " +
-                            "Também possui um sistema de anéis com faixas estreitas e composto por partículas escuras nos anéis mais internos e brilhantes nos mais externos.[48]",
-
-                    "https://pt.wikipedia.org/wiki/Urano_(planeta)",
-                    "https://pt.wikipedia.org/wiki/Urano_(planeta)#/media/Ficheiro:Uranus2.jpg"
-                    )
-
-                )
 
                 planetsList.add(
                     Planets(
