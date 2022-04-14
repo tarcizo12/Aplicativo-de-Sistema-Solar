@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.projetosistemasolar.R
+import com.example.projetosistemasolar.models.Planets
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -16,6 +17,12 @@ class MainActivity : AppCompatActivity() {
 
 
         initRecyclerView()
+        addDataSource()
+    }
+
+    private fun addDataSource() {
+        val dataSource = DataSourcePlanets.createDataSet()
+        this.planetAdapter.setDataSet(dataSource)
     }
 
     private fun initRecyclerView() {

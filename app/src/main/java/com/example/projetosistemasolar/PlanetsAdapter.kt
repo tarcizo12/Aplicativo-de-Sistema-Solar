@@ -29,7 +29,9 @@ class PlanetsAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>(){
         return planets.size
     }
 
-    
+    fun setDataSet (planets: List <Planets>){
+        this.planets = planets
+    }
 
     class PlanetViewHolder constructor (
         planetView : View
