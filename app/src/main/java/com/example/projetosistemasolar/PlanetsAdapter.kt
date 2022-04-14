@@ -29,6 +29,8 @@ class PlanetsAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>(){
         return planets.size
     }
 
+    
+
     class PlanetViewHolder constructor (
         planetView : View
             ): RecyclerView.ViewHolder(planetView){
