@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun addDataSourcePlanets() {
-        val dataSource  =DataSourcePlanets.createDataSet()
+        val dataSource  = DataSourcePlanets.createDataSet()
         this.planetsAdapter.setDataSet(dataSource)
     }
 
@@ -28,4 +28,5 @@ class MainActivity : AppCompatActivity() {
         listOfPlanets.layoutManager = LinearLayoutManager(this)
         listOfPlanets.adapter  = this.planetsAdapter
     }
+
 }
