@@ -15,7 +15,7 @@ class DataSourcePlanets {
                             "astrônomos gregos acreditavam que se tratasse de dois objetos distintos: um visível no nascer do sol, ao qual chamavam Apolo, e " +
                             "outro visível ao pôr do Sol, chamado de Hermes.[7] O nome em português para o planeta provém da Roma Antiga, onde o astro recebeu o nome do deus romano " +
                             "Mercúrio, que tinha na mitologia grega o nome de Hermes (Ἑρμῆς). O símbolo astronômico de Mercúrio é uma versão estilizada do caduceu de Hermes.[8]" ,
-                    "https://pt.wikipedia.org/wiki/Merc%C3%BArio_(planeta)",
+                    "Mercúrio é o menor dos planetas do sistema solar e, também, aquele que está mais perto do Sol. Além disso, a superfície lá é cinza e apresenta crateras que lembram a Lua.",
                     "https://pt.wikipedia.org/wiki/Merc%C3%BArio_(planeta)#/media/Ficheiro:Mercury_in_color_-_Prockter07-edit1.jpg"
                     )
                 )
@@ -28,7 +28,7 @@ class DataSourcePlanets {
                             " extremamente lenta de Vênus não permite a existência de um campo magnético. A atmosfera venusiana, extraordinariamente espessa e violenta, é composta primariamente por dióxido de carbono e vapores de" +
                             " ácido sulfúrico na forma de nuvens permanentes que envolvem todo o planeta. Como consequência, além de uma intensa pressão atmosférica (noventa vezes superior à" +
                             " pressão atmosférica terrestre), ocorre um superefeito estufa que faz com que a temperatura na superfície atinja mais de 470 graus Celsius.[33]",
-                    "https://pt.wikipedia.org/wiki/V%C3%A9nus_(planeta)",
+                    "Vênus é mais um dos corpos celestes que devemos estudar para ir bem na prova de Física do Enem. Uma das peculiaridades mais marcantes é que ele é o planeta mais quente do sistema solar. Essa alta temperatura tem origem no dióxido de carbono presente em grande quantidade na sua atmosfera.",
                     "https://pt.wikipedia.org/wiki/V%C3%A9nus_(planeta)#/media/Ficheiro:PIA23791-Venus-RealAndEnhancedContrastViews-20200608_(cropped2).jpg"
                     )
 
@@ -43,7 +43,7 @@ class DataSourcePlanets {
                             "peculiaridade em relação aos demais planetas, já que é o único conhecido a abrigar vida. Os seres que nele habitam influenciam a composição e a dinâmica da atmosfera terrestre, formada " +
                             "principalmente por nitrogênio e oxigênio. A inclinação do eixo de rotação é responsável pela ocorrência de estações que regulam o clima.[34]",
 
-                    "https://pt.wikipedia.org/wiki/Terra",
+                    "Se tem um planeta que não pode ficar de fora do seu plano de estudos para o vestibular é o nosso, concorda? Bom, a Terra tem uma atmosfera composta por gases expelidos por erupções vulcânicas ao longo dos milhares de anos. Essa condição permitiu a temperatura certa para a concepção da vida no sistema solar.",
                     "https://pt.wikipedia.org/wiki/Terra#/media/Ficheiro:The_Earth_seen_from_Apollo_17.jpg"
                     )
 
@@ -58,7 +58,7 @@ class DataSourcePlanets {
                             " micro-orgânica.[37] Com metade do tamanho da Terra, apresenta acidentes geográficos notáveis, como o Monte Olimpo, o maior vulcão extinto do Sistema Solar, com altitude três vezes maior do que a do Monte " +
                             "Everest, e o Valles Marineris, um sistema de cânions que se estende por mais de três mil quilômetros na região equatorial.[38]",
 
-                    "https://pt.wikipedia.org/wiki/Marte_(planeta)",
+                    "Questões sobre os planetas do sistema solar no vestibular não são novidades, uma vez que eles são cobrados na prova de Ciências da Natureza e suas Tecnologias. Porém, quando se fala de Marte, é necessária uma atenção especial. Afinal, ele tem condições de abrigar vida, inclusive sendo um grande candidato à moradia humana no futuro.",
                     "https://pt.wikipedia.org/wiki/Marte_(planeta)#/media/Ficheiro:OSIRIS_Mars_true_color.jpg"
                     )
 
@@ -73,7 +73,7 @@ class DataSourcePlanets {
                             " hidrogênio. Já nas camadas mais internas do planeta, o mesmo elemento adquire propriedades metálicas e se torna eletricamente condutivo,dando origem, através do fluxo de cargas elétricas, " +
                             "a um poderoso campo magnético cuja intensidade é vinte mil vezes superior ao que é produzido pela Terra.[43]",
 
-                    "https://pt.wikipedia.org/wiki/J%C3%BApiter_(planeta)",
+                    "Júpiter é conhecido como o gigante gasoso, porque é o maior dos planetas do conjunto solar. Além disso, ele não tem uma superfície rígida, e a atmosfera contém amônia e metano.",
                     "https://pt.wikipedia.org/wiki/J%C3%BApiter_(planeta)#/media/Ficheiro:Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
                     )
 
@@ -88,7 +88,7 @@ class DataSourcePlanets {
                             "espalham por faixas, com milhares de quilômetros de extensão e paralelo ao equador do planeta. Sua espessura média é de apenas dez metros, nunca excedendo 1,5 quilômetro, e a maioria dos corpos que o compõem " +
                             "apresentam tipicamente dimensões entre um centímetro e dez metros.[46]",
 
-                    "https://pt.wikipedia.org/wiki/Saturno_(planeta)",
+                    "Saturno é o planeta dos anéis, que são formados por rocha, gelo e poeira e contam com 1 km de extensão. Trata-se do sexto planeta do sistema solar, sendo que 62 satélites circulam em sua órbita.",
                     "https://pt.wikipedia.org/wiki/Saturno_(planeta)#/media/Ficheiro:Saturn_during_Equinox.jpg"
                     )
 
@@ -97,15 +97,9 @@ class DataSourcePlanets {
 
                 planetsList.add(
                     Planets(
-                    "Netuno",
-                    "O gigante e gelado Netuno é o planeta mais afastado do Sol e foi o primeiro a ser localizado a partir de cálculos matemáticos em vez de observações regulares do céu. Sua busca foi motivada" +
-                            " por se terem constatado irregularidades na órbita de Urano que só poderiam ser explicadas pela interação com um corpo de massa considerável ainda desconhecido. Observações subsequentes " +
-                            "da área onde Netuno se deveria encontrar, segundo os resultados calculados, vieram comprovar a sua existência. A extremamente violenta atmosfera netuniana, com ventos cuja velocidade " +
-                            "máxima de 1 200 km/h excede nove vezes a dos mais intensos que ocorrem na Terra, apresenta relevante porcentagem de metano, responsável por sua coloração azulada. Frequentemente surgem " +
-                            "sistemas de tempestades circulares no planeta, como a grande mancha escura, um sistema anticiclônico maior que a Terra que desapareceu alguns anos após ser fotografado pela sonda Voyager 2." +
-                            " Presume-se que as camadas intermediárias de Netuno sejam formadas por compostos gelados, como amônia e água, ao redor de um núcleo rochoso.[50]",
-
-                    "https://pt.wikipedia.org/wiki/Netuno_(planeta)",
+                    "Urano",
+                    "O sétimo planeta a partir do Sol foi o primeiro a ser descoberto com o auxílio de um telescópio em 1781. À semelhança de Vênus, o sentido de rotação de Urano é retrógrado relativamente ao da maioria dos corpos do Sistema Solar. Além disso, seu eixo de rotação é extremamente inclinado, fazendo com que cada um dos polos do planeta fique diretamente voltado para o Sol durante um longo período. A atmosfera de Urano, formada principalmente de hidrogênio e hélio, além de uma pequena quantidade de metano (responsável pela coloração azul-esverdeada) e água, mostra-se dinâmica conforme as mudanças de estação do planeta. No seu interior, possivelmente se aloja uma camada líquida de água, metano e amônia. Também possui um sistema de anéis com faixas estreitas e composto por partículas escuras nos anéis mais internos e brilhantes nos mais externos.[48]",
+                    "Urano é um planeta composto por hélio, hidrogênio e metano. Como ele está bastante distante do sol, registra clima bem frio, de 185 ºC negativos.",
                     "https://pt.wikipedia.org/wiki/Netuno_(planeta)#/media/Ficheiro:Neptune_-_Voyager_2_(29347980845)_flatten_crop.jpg"
                     )
 
@@ -121,7 +115,7 @@ class DataSourcePlanets {
                             "sistemas de tempestades circulares no planeta, como a grande mancha escura, um sistema anticiclônico maior que a Terra que desapareceu alguns anos após ser fotografado pela sonda Voyager 2." +
                             " Presume-se que as camadas intermediárias de Netuno sejam formadas por compostos gelados, como amônia e água, ao redor de um núcleo rochoso.[50]",
 
-                    "https://pt.wikipedia.org/wiki/Netuno_(planeta)",
+                    "Como já dissemos, vira e mexe os planetas do sistema solar caem no Enem. Por isso, estudar um pouco sobre Netuno, o mais distante do nosso astro-rei, também é importante. Por ser o último no sistema solar, ele apresenta temperaturas de 200 ºC negativos.",
                     "https://pt.wikipedia.org/wiki/Netuno_(planeta)#/media/Ficheiro:Neptune_-_Voyager_2_(29347980845)_flatten_crop.jpg"
                     )
 
