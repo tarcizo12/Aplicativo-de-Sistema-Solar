@@ -15,7 +15,7 @@ class DataSourcePlanets {
                             "astrônomos gregos acreditavam que se tratasse de dois objetos distintos: um visível no nascer do sol, ao qual chamavam Apolo, e " +
                             "outro visível ao pôr do Sol, chamado de Hermes.[7] O nome em português para o planeta provém da Roma Antiga, onde o astro recebeu o nome do deus romano " +
                             "Mercúrio, que tinha na mitologia grega o nome de Hermes (Ἑρμῆς). O símbolo astronômico de Mercúrio é uma versão estilizada do caduceu de Hermes.[8]" ,
-                    "Mercúrio é o menor dos planetas do sistema solar e, também, aquele que está mais perto do Sol. Além disso, a superfície lá é cinza e apresenta crateras que lembram a Lua.",
+                    "O planeta mais próximo do Sol, que gasta somente oitenta e oito dias para completar seu período de translação, possui uma aparência acinzentada com inúmeras marcas de impactos que lembram a superfície lunar.",
 
                     )
                 )
@@ -23,12 +23,8 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Vênus",
-                    "O segundo planeta a partir do Sol possui tamanho, composição e massa similares à Terra. Contudo, o seu período de rotação é de 243 dias, superior ao tempo que " +
-                            "Vênus leva a completar uma órbita ao redor do Sol, pelo que um dia venusiano é mais longo que um ano venusiano. Apesar de o núcleo ferroso de Vênus ser similar ao da Terra, a rotação" +
-                            " extremamente lenta de Vênus não permite a existência de um campo magnético. A atmosfera venusiana, extraordinariamente espessa e violenta, é composta primariamente por dióxido de carbono e vapores de" +
-                            " ácido sulfúrico na forma de nuvens permanentes que envolvem todo o planeta. Como consequência, além de uma intensa pressão atmosférica (noventa vezes superior à" +
-                            " pressão atmosférica terrestre), ocorre um superefeito estufa que faz com que a temperatura na superfície atinja mais de 470 graus Celsius.[33]",
-                    "Vênus é mais um dos corpos celestes que devemos estudar para ir bem na prova de Física do Enem. Uma das peculiaridades mais marcantes é que ele é o planeta mais quente do sistema solar. Essa alta temperatura tem origem no dióxido de carbono presente em grande quantidade na sua atmosfera.",
+                    "Vênusé o segundo planeta do Sistema Solar em ordem de distância a partir do Sol, orbitando-o a cada 224,7 dias. Recebeu seu nome em homenagem à deusa romana do amor e da beleza Vénus, equivalente a Afrodite. Depois da Lua, é o objeto mais brilhante do céu noturno, atingindo uma magnitude aparente de -4,6, o suficiente para produzir sombras. A distância média da Terra a Vênus é de 0,28 AU, sendo esta a menor distância entre qualquer par de planetas.[2] Como Vénus se encontra mais próximo do Sol do que a Terra, ele pode ser visto aproximadamente na mesma direção do Sol (sua maior elongação é de 47,8°).",
+                    "O segundo planeta a partir do Sol possui tamanho, composição e massa similares à Terra.",
 
                     )
 
@@ -37,13 +33,9 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Terra",
-                    "O maior planeta telúrico e o quinto maior do Sistema Solar, é o terceiro a contar do Sol. Seu núcleo é constituído principalmente por ferro, ao redor do qual encontra-se uma camada" +
-                            " de rochas fundidas, por sua vez cercada por uma crosta relativamente fina e dividida em placas tectônicas em constante movimento, responsáveis pelas atividades sísmica e vulcânica na Terra. " +
-                            "O núcleo metálico e a rotação do planeta permitem a formação de um substancial campo magnético. Com mais de setenta por cento de sua superfície coberta por água, a Terra apresenta uma " +
-                            "peculiaridade em relação aos demais planetas, já que é o único conhecido a abrigar vida. Os seres que nele habitam influenciam a composição e a dinâmica da atmosfera terrestre, formada " +
-                            "principalmente por nitrogênio e oxigênio. A inclinação do eixo de rotação é responsável pela ocorrência de estações que regulam o clima.[34]",
+                    "A Terra é o terceiro planeta mais próximo do Sol, o mais denso e o quinto maior dos oito planetas do Sistema Solar. É também o maior dos quatro planetas telúricos. É por vezes designada como Mundo ou Planeta Azul. Lar de milhões de espécies de seres vivos,[13] incluindo os humanos, a Terra é o único corpo celeste onde é conhecida a existência de vida. O planeta formou-se há 4,56 bilhões de anos,e a vida surgiu na sua superfície um bilhão de anos depois. Desde então, a biosfera terrestre alterou significativamente.",
 
-                    "Se tem um planeta que não pode ficar de fora do seu plano de estudos para o vestibular é o nosso, concorda? Bom, a Terra tem uma atmosfera composta por gases expelidos por erupções vulcânicas ao longo dos milhares de anos. Essa condição permitiu a temperatura certa para a concepção da vida no sistema solar.",
+                    "O maior planeta telúrico e o quinto maior do Sistema Solar, é o terceiro a contar do Sol.",
 
                     )
 
@@ -52,13 +44,9 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Marte",
-                    "O planeta telúrico mais afastado do Sol passou a ser um mundo intrigante a partir do advento das observações telescópicas. Exibindo calotas polares variáveis e características superficiais mutantes, " +
-                            "levantava suspeitas da possível existência de vida fora da Terra. Contudo, após o envio de sondas e exploradores robóticos, descobriu-se que Marte é um planeta desértico e não se constatou a existência de " +
-                            "seres vivos. Entretanto, a sonda Mars Reconnaissance Orbiter revelou veios de água salgada que fluem em regiões montanhosas nos meses mais quentes do planeta, aumentando a possibilidade da existência de vida" +
-                            " micro-orgânica.[37] Com metade do tamanho da Terra, apresenta acidentes geográficos notáveis, como o Monte Olimpo, o maior vulcão extinto do Sistema Solar, com altitude três vezes maior do que a do Monte " +
-                            "Everest, e o Valles Marineris, um sistema de cânions que se estende por mais de três mil quilômetros na região equatorial.[38]",
+                    "Marte é um planeta rochoso com uma atmosfera fina, com características de superfície que lembram tanto as crateras de impacto da Lua quanto vulcões, vales, desertos e calotas polares da Terra. O período de rotação e os ciclos sazonais de Marte são também semelhantes aos da Terra, assim como é a inclinação que produz as suas estações do ano.",
 
-                    "Questões sobre os planetas do sistema solar no vestibular não são novidades, uma vez que eles são cobrados na prova de Ciências da Natureza e suas Tecnologias. Porém, quando se fala de Marte, é necessária uma atenção especial. Afinal, ele tem condições de abrigar vida, inclusive sendo um grande candidato à moradia humana no futuro.",
+                    "O planeta telúrico mais afastado do Sol passou a ser um mundo intrigante a partir do advento das observações telescópicas. ",
 
                     )
 
@@ -67,13 +55,9 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Júpiter",
-                    "O maior e mais massivo planeta do Sistema Solar exibe peculiares faixas multicoloridas criadas por fortíssimos ventos que percorrem faixas longitudinais na parte superior de sua atmosfera. Frequentemente " +
-                            "surgem nessas bandas vórtices e sistemas de tempestades circulares, como a Grande Mancha Vermelha, uma tormenta maior que a Terra que já dura por séculos. Dentre os gases que compõem sua atmosfera, " +
-                            "hidrogênio e hélio são os mais abundantes, seguidos por pequenas frações de vapor d'água, metano e amônia.[42] Nas camadas gasosas inferiores do planeta, a pressão atmosférica é suficiente para liquefazer o" +
-                            " hidrogênio. Já nas camadas mais internas do planeta, o mesmo elemento adquire propriedades metálicas e se torna eletricamente condutivo,dando origem, através do fluxo de cargas elétricas, " +
-                            "a um poderoso campo magnético cuja intensidade é vinte mil vezes superior ao que é produzido pela Terra.[43]",
+                    "Júpiter é o maior planeta do Sistema Solar, tanto em diâmetro quanto em massa, e é o quinto mais próximo do Sol.[11] Possui menos de um milésimo da massa solar, contudo tem 2,5 vezes a massa de todos os outros planetas em conjunto. É um planeta gasoso, junto com Saturno, Urano e Netuno. Estes quatro planetas são por vezes chamados de planetas jupiterianos ou planetas jovianos, e são os quatro gigantes gasosos, isto é, que não são compostos primariamente de matéria sólida.[12]",
 
-                    "Júpiter é conhecido como o gigante gasoso, porque é o maior dos planetas do conjunto solar. Além disso, ele não tem uma superfície rígida, e a atmosfera contém amônia e metano.",
+                    "O maior e mais massivo planeta do Sistema Solar exibe peculiares faixas multicoloridas criadas por fortíssimos ventos que percorrem faixas longitudinais na parte superior de sua atmosfera.",
 
                     )
 
@@ -82,13 +66,9 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Saturno",
-                    "O segundo maior planeta do Sistema Solar possui uma composição semelhante à de Júpiter, rica em hidrogênio e hélio. Sua atmosfera, em função do calor irradiado do interior de Saturno, apresenta-se em constante" +
-                            " turbulência, com ventos de mais de 1 800 quilômetros por hora que criam bandas visíveis nas suas camadas superiores em tons de amarelo e dourado. Embora mais fraco que o de Júpiter, o campo magnético do" +
-                            " planeta ainda é quinhentas vezes mais intenso que o terrestre. Contudo, a característica mais notável de Saturno é seu impressionante sistema de anéis, formado essencialmente por fragmentos de gelo que se " +
-                            "espalham por faixas, com milhares de quilômetros de extensão e paralelo ao equador do planeta. Sua espessura média é de apenas dez metros, nunca excedendo 1,5 quilômetro, e a maioria dos corpos que o compõem " +
-                            "apresentam tipicamente dimensões entre um centímetro e dez metros.[46]",
+                    "Saturno é o sexto planeta a partir do Sol e o segundo maior do Sistema Solar atrás de Júpiter. Pertencente ao grupo dos gigantes gasosos, possui cerca de 95 massas terrestres e orbita a uma distância média de 9,5 unidades astronômicas. Possui um pequeno núcleo rochoso, circundado por uma espessa camada de hidrogênio metálico e hélio. A sua atmosfera, também composta principalmente de hidrogênio, apresenta faixas com fortes ventos, cuja energia provém tanto do calor recebido do Sol quanto da energia irradiada de seu centro. Entretanto, estas bandas possuem aspecto pouco proeminente, com coloração que varia do marrom ao amarelado, devido à espessa névoa que envolve o planeta, além das camadas de nuvens. Sazonalmente surgem grandes sistemas de tempestades, além de vórtices permanentes existentes nos polos.",
 
-                    "Saturno é o planeta dos anéis, que são formados por rocha, gelo e poeira e contam com 1 km de extensão. Trata-se do sexto planeta do sistema solar, sendo que 62 satélites circulam em sua órbita.",
+                    "O segundo maior planeta do Sistema Solar possui uma composição semelhante à de Júpiter, rica em hidrogênio e hélio.",
 
                     )
 
@@ -98,8 +78,8 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Urano",
-                    "O sétimo planeta a partir do Sol foi o primeiro a ser descoberto com o auxílio de um telescópio em 1781. À semelhança de Vênus, o sentido de rotação de Urano é retrógrado relativamente ao da maioria dos corpos do Sistema Solar. Além disso, seu eixo de rotação é extremamente inclinado, fazendo com que cada um dos polos do planeta fique diretamente voltado para o Sol durante um longo período. A atmosfera de Urano, formada principalmente de hidrogênio e hélio, além de uma pequena quantidade de metano (responsável pela coloração azul-esverdeada) e água, mostra-se dinâmica conforme as mudanças de estação do planeta. No seu interior, possivelmente se aloja uma camada líquida de água, metano e amônia. Também possui um sistema de anéis com faixas estreitas e composto por partículas escuras nos anéis mais internos e brilhantes nos mais externos.[48]",
-                    "Urano é um planeta composto por hélio, hidrogênio e metano. Como ele está bastante distante do sol, registra clima bem frio, de 185 ºC negativos.",
+                    "Urano[11] (Úrano em Portugal[12]) é o sétimo planeta a partir do Sol, o terceiro maior e o quarto mais massivo dos oito planetas do Sistema Solar. Foi nomeado em homenagem ao deus grego do céu, Urano. Embora seja visível a olho nu em boas condições de visualização, não foi reconhecido pelos astrônomos antigos como um planeta devido a seu pequeno brilho e lenta órbita.[13] William Herschel anunciou sua descoberta em 13 de março de 1781, expandindo as fronteiras do Sistema Solar pela primeira vez na história moderna. Urano foi também o primeiro planeta a ser descoberto por meio de um telescópio.",
+                    "O sétimo planeta a partir do Sol foi o primeiro a ser descoberto com o auxílio de um telescópio em 1781. À semelhança de Vênus, o sentido de rotação de Urano é retrógrado relativamente ao da maioria dos corpos do Sistema Solar.",
 
                     )
 
@@ -108,14 +88,10 @@ class DataSourcePlanets {
                 planetsList.add(
                     Planets(
                     "Netuno",
-                    "O gigante e gelado Netuno é o planeta mais afastado do Sol e foi o primeiro a ser localizado a partir de cálculos matemáticos em vez de observações regulares do céu. Sua busca foi motivada" +
-                            " por se terem constatado irregularidades na órbita de Urano que só poderiam ser explicadas pela interação com um corpo de massa considerável ainda desconhecido. Observações subsequentes " +
-                            "da área onde Netuno se deveria encontrar, segundo os resultados calculados, vieram comprovar a sua existência. A extremamente violenta atmosfera netuniana, com ventos cuja velocidade " +
-                            "máxima de 1 200 km/h excede nove vezes a dos mais intensos que ocorrem na Terra, apresenta relevante porcentagem de metano, responsável por sua coloração azulada. Frequentemente surgem " +
-                            "sistemas de tempestades circulares no planeta, como a grande mancha escura, um sistema anticiclônico maior que a Terra que desapareceu alguns anos após ser fotografado pela sonda Voyager 2."
+                    "O gigante e gelado Netuno é o planeta mais afastado do Sol e foi o primeiro a ser localizado a partir de cálculos matemáticos em vez de observações regulares do céu"
                            ,
 
-                    "Como já dissemos, vira e mexe os planetas do sistema solar caem no Enem. Por isso, estudar um pouco sobre Netuno, o mais distante do nosso astro-rei, também é importante. Por ser o último no sistema solar, ele apresenta temperaturas de 200 ºC negativos.",
+                    "O gigante e gelado Netuno é o planeta mais afastado do Sol e foi o primeiro a ser localizado a partir de cálculos matemáticos em vez de observações regulares do céu",
 
                     )
 
