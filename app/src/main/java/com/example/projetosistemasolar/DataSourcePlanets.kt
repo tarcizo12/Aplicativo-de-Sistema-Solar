@@ -16,7 +16,7 @@ class DataSourcePlanets {
                             "outro visível ao pôr do Sol, chamado de Hermes.[7] O nome em português para o planeta provém da Roma Antiga, onde o astro recebeu o nome do deus romano " +
                             "Mercúrio, que tinha na mitologia grega o nome de Hermes (Ἑρμῆς). O símbolo astronômico de Mercúrio é uma versão estilizada do caduceu de Hermes.[8]" ,
                     "Mercúrio é o menor dos planetas do sistema solar e, também, aquele que está mais perto do Sol. Além disso, a superfície lá é cinza e apresenta crateras que lembram a Lua.",
-                    "https://pt.wikipedia.org/wiki/Merc%C3%BArio_(planeta)#/media/Ficheiro:Mercury_in_color_-_Prockter07-edit1.jpg"
+
                     )
                 )
 
@@ -29,7 +29,7 @@ class DataSourcePlanets {
                             " ácido sulfúrico na forma de nuvens permanentes que envolvem todo o planeta. Como consequência, além de uma intensa pressão atmosférica (noventa vezes superior à" +
                             " pressão atmosférica terrestre), ocorre um superefeito estufa que faz com que a temperatura na superfície atinja mais de 470 graus Celsius.[33]",
                     "Vênus é mais um dos corpos celestes que devemos estudar para ir bem na prova de Física do Enem. Uma das peculiaridades mais marcantes é que ele é o planeta mais quente do sistema solar. Essa alta temperatura tem origem no dióxido de carbono presente em grande quantidade na sua atmosfera.",
-                    "https://pt.wikipedia.org/wiki/V%C3%A9nus_(planeta)#/media/Ficheiro:PIA23791-Venus-RealAndEnhancedContrastViews-20200608_(cropped2).jpg"
+
                     )
 
                 )
@@ -44,7 +44,7 @@ class DataSourcePlanets {
                             "principalmente por nitrogênio e oxigênio. A inclinação do eixo de rotação é responsável pela ocorrência de estações que regulam o clima.[34]",
 
                     "Se tem um planeta que não pode ficar de fora do seu plano de estudos para o vestibular é o nosso, concorda? Bom, a Terra tem uma atmosfera composta por gases expelidos por erupções vulcânicas ao longo dos milhares de anos. Essa condição permitiu a temperatura certa para a concepção da vida no sistema solar.",
-                    "https://pt.wikipedia.org/wiki/Terra#/media/Ficheiro:The_Earth_seen_from_Apollo_17.jpg"
+
                     )
 
                 )
@@ -59,7 +59,7 @@ class DataSourcePlanets {
                             "Everest, e o Valles Marineris, um sistema de cânions que se estende por mais de três mil quilômetros na região equatorial.[38]",
 
                     "Questões sobre os planetas do sistema solar no vestibular não são novidades, uma vez que eles são cobrados na prova de Ciências da Natureza e suas Tecnologias. Porém, quando se fala de Marte, é necessária uma atenção especial. Afinal, ele tem condições de abrigar vida, inclusive sendo um grande candidato à moradia humana no futuro.",
-                    "https://pt.wikipedia.org/wiki/Marte_(planeta)#/media/Ficheiro:OSIRIS_Mars_true_color.jpg"
+
                     )
 
                 )
@@ -74,7 +74,7 @@ class DataSourcePlanets {
                             "a um poderoso campo magnético cuja intensidade é vinte mil vezes superior ao que é produzido pela Terra.[43]",
 
                     "Júpiter é conhecido como o gigante gasoso, porque é o maior dos planetas do conjunto solar. Além disso, ele não tem uma superfície rígida, e a atmosfera contém amônia e metano.",
-                    "https://pt.wikipedia.org/wiki/J%C3%BApiter_(planeta)#/media/Ficheiro:Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
+
                     )
 
                 )
@@ -89,7 +89,7 @@ class DataSourcePlanets {
                             "apresentam tipicamente dimensões entre um centímetro e dez metros.[46]",
 
                     "Saturno é o planeta dos anéis, que são formados por rocha, gelo e poeira e contam com 1 km de extensão. Trata-se do sexto planeta do sistema solar, sendo que 62 satélites circulam em sua órbita.",
-                    "https://pt.wikipedia.org/wiki/Saturno_(planeta)#/media/Ficheiro:Saturn_during_Equinox.jpg"
+
                     )
 
                 )
@@ -100,7 +100,7 @@ class DataSourcePlanets {
                     "Urano",
                     "O sétimo planeta a partir do Sol foi o primeiro a ser descoberto com o auxílio de um telescópio em 1781. À semelhança de Vênus, o sentido de rotação de Urano é retrógrado relativamente ao da maioria dos corpos do Sistema Solar. Além disso, seu eixo de rotação é extremamente inclinado, fazendo com que cada um dos polos do planeta fique diretamente voltado para o Sol durante um longo período. A atmosfera de Urano, formada principalmente de hidrogênio e hélio, além de uma pequena quantidade de metano (responsável pela coloração azul-esverdeada) e água, mostra-se dinâmica conforme as mudanças de estação do planeta. No seu interior, possivelmente se aloja uma camada líquida de água, metano e amônia. Também possui um sistema de anéis com faixas estreitas e composto por partículas escuras nos anéis mais internos e brilhantes nos mais externos.[48]",
                     "Urano é um planeta composto por hélio, hidrogênio e metano. Como ele está bastante distante do sol, registra clima bem frio, de 185 ºC negativos.",
-                    "https://pt.wikipedia.org/wiki/Netuno_(planeta)#/media/Ficheiro:Neptune_-_Voyager_2_(29347980845)_flatten_crop.jpg"
+
                     )
 
                 )
@@ -112,11 +112,11 @@ class DataSourcePlanets {
                             " por se terem constatado irregularidades na órbita de Urano que só poderiam ser explicadas pela interação com um corpo de massa considerável ainda desconhecido. Observações subsequentes " +
                             "da área onde Netuno se deveria encontrar, segundo os resultados calculados, vieram comprovar a sua existência. A extremamente violenta atmosfera netuniana, com ventos cuja velocidade " +
                             "máxima de 1 200 km/h excede nove vezes a dos mais intensos que ocorrem na Terra, apresenta relevante porcentagem de metano, responsável por sua coloração azulada. Frequentemente surgem " +
-                            "sistemas de tempestades circulares no planeta, como a grande mancha escura, um sistema anticiclônico maior que a Terra que desapareceu alguns anos após ser fotografado pela sonda Voyager 2." +
-                            " Presume-se que as camadas intermediárias de Netuno sejam formadas por compostos gelados, como amônia e água, ao redor de um núcleo rochoso.[50]",
+                            "sistemas de tempestades circulares no planeta, como a grande mancha escura, um sistema anticiclônico maior que a Terra que desapareceu alguns anos após ser fotografado pela sonda Voyager 2."
+                           ,
 
                     "Como já dissemos, vira e mexe os planetas do sistema solar caem no Enem. Por isso, estudar um pouco sobre Netuno, o mais distante do nosso astro-rei, também é importante. Por ser o último no sistema solar, ele apresenta temperaturas de 200 ºC negativos.",
-                    "https://pt.wikipedia.org/wiki/Netuno_(planeta)#/media/Ficheiro:Neptune_-_Voyager_2_(29347980845)_flatten_crop.jpg"
+
                     )
 
                 )
@@ -129,8 +129,8 @@ class DataSourcePlanets {
                             "anão.Possui um formato arredondado e uma superfície escura cheia de crateras. É constituído possivelmente por um núcleo rochoso circundado por um manto de gelo. Sua superfície, conforme" +
                             " anteriormente observado pelo Telescópio Espacial Hubble, apresenta regiões mais escuras, além de locais de brilho proeminente, de natureza ainda desconhecida. ",
 
-                    "https://pt.wikipedia.org/wiki/Ceres_(planeta_an%C3%A3o)",
-                    "https://pt.wikipedia.org/wiki/Ceres_(planeta_an%C3%A3o)#/media/Ficheiro:Color_global_view_of_Ceres_-_Oxo_and_Haulani_craters.png"
+                    "Ceres é praticamente invisível quando observado a olho nu. Quando encontra-se em oposição e próximo ao periélio, pode atingir uma magnitude aparente máxima de +6,7.[6] Esse brilho é considerado muito fraco para ser observado a olho nu, mas sob condições excepcionais de observação Ceres pode ser encontrado sem o uso de equipamentos. Somente Vesta pode atingir uma magnitude similar e também, durante raras oposições próximas ao periélio, 2 Pallas e 7 Iris apresentam brilho semelhante.[7]",
+
                     )
 
                 )
@@ -143,8 +143,8 @@ class DataSourcePlanets {
                             "cinturão de Kuiper, Plutão é composto primariamente de rocha e gelo e é relativamente pequeno, com aproximadamente um quinto da massa da Lua e um terço de seu volume. Ele tem uma órbita " +
                             "altamente inclinada e excêntrica que o leva de 30 a 49 UA do Sol. Isso faz Plutão ficar periodicamente mais perto do Sol do que Netuno (Neptuno). Atualmente Plutão está a 32,9 UA do Sol.[8] ",
 
-                    "https://pt.wikipedia.org/wiki/Plut%C3%A3o",
-                    "https://pt.wikipedia.org/wiki/Plut%C3%A3o#/media/Ficheiro:Pluto_in_True_Color_-_High-Res.jpg"
+                    "Plutão foi descoberto em 1930 por Clyde Tombaugh e até 2006 foi considerado o nono planeta do Sistema Solar. A partir de 1992, com a descoberta de vários outros objetos similares a ele no Sistema Solar externo, sua classificação como um planeta começou a ser questionada, especialmente após a descoberta em 2005 de Éris, 27% mais massivo que Plutão.[",
+
                     )
 
                 )
@@ -157,8 +157,8 @@ class DataSourcePlanets {
                             "Éris tem um período orbital de cerca de 560 anos e encontra-se a cerca de 97 UA do Sol, em seu afélio. Como Plutão, a sua órbita é bastante excêntrica, e leva o planeta a uma distância de " +
                             "apenas 35 UA do Sol no seu periélio (a distância de Plutão ao Sol varia entre 29 e 49,5 UA, enquanto que a órbita de Neptuno fica por cerca de 30 UA). ",
 
-                    "https://pt.wikipedia.org/wiki/%C3%89ris_(planeta_an%C3%A3o)",
-                    "https://pt.wikipedia.org/wiki/%C3%89ris_(planeta_an%C3%A3o)#/media/Ficheiro:Eris_and_dysnomia2.jpg"
+                    "Éris era a deusa da discórdia. O planeta foi chamado assim porque a sua descoberta lançou a discórdia entre os astrónomos quanto à definição de um planeta e causou, indirectamente, a descida de estatuto de Plutão de \"planeta\" para \"planeta anão\"",
+
                     )
 
                 )
@@ -172,8 +172,8 @@ class DataSourcePlanets {
                             "menor 136472, Makemake foi descoberto em 31 de março de 2005 no Observatório Palomar, por uma equipe liderada por Michael Brown, e anunciado em 29 de julho de 2005. Recebeu o nome do " +
                             "deus rapanui Makemake. Foi formalmente classificado como plutoide e planeta anão em julho de 2008",
 
-                    "https://pt.wikipedia.org/wiki/Makemake",
-                    "https://pt.wikipedia.org/wiki/Makemake#/media/Ficheiro:Makemake_hubble.png"
+                    "Makemake foi descoberto em 31 de março de 2005 no Observatório Palomar (em San Diego, Califórnia), por um grupo liderado por Michael E. Brown,[2] e foi anunciado ao público em 29 de julho de 2005, o mesmo dia do anúncio da descoberta de Éris e dois dias depois do anúncio de Haumea",
+
                     )
 
                 )
@@ -186,8 +186,8 @@ class DataSourcePlanets {
                             "serem destroços que se separaram de Haumea em decorrência de uma antiga colisão. Haumea também é o objeto astronômico com a mais rápida rotação no Sistema Solar, durando apenas quatro horas, " +
                             "o que faz com que o planeta-anão seja extremamente deformado, sendo semelhante a uma bola de rugby. ",
 
-                    "https://pt.wikipedia.org/wiki/Haumea",
-                    "https://pt.wikipedia.org/wiki/Haumea#/media/Ficheiro:2003EL61art.jpg"
+                    "Planeta anão Haumea. Haumea é uma divindade primitiva do Havaí, deusa do nascimento e da fertilidade. Geralmente é identificada com Papa, uma antiga deusa mãe. Haumea pôde renascer constantemente, pelo que teve muitos filhos com seus próprios rebentos e descendentes. Também estava relacionada com os frutais sagrados, que produziam frutas segundo a sua vontade. E com sua varinha mágica ela povoava as águas que rodeiam as ilhas havaianas com grandes cardumes de peixes",
+
                     )
 
                 )

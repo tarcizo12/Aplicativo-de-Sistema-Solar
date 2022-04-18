@@ -2,13 +2,15 @@ package com.example.projetosistemasolar
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.example.projetosistemasolar.models.Planets
 import kotlinx.android.synthetic.main.activity_detail_acativity.*
 import org.w3c.dom.Text
 
-class DetailActivity : AppCompatActivity() {
+class DetailActivity : AppCompatActivity(), View.OnClickListener {
     private  lateinit var mPlanetName: Text
     private  lateinit var mPlanetDescription: Text
+
     private  lateinit var planets: List<Planets>
     private var position =  -1
 
@@ -17,6 +19,8 @@ class DetailActivity : AppCompatActivity() {
         setContentView(R.layout.activity_detail_acativity)
 
         position = intent.getIntExtra("position", -1)
+
+        buttonClose.setOnClickListener(this)
 
     }
 
@@ -32,6 +36,10 @@ class DetailActivity : AppCompatActivity() {
         textNamePlanet.text = planets[position].namePlanet
         textDescription.text = planets[position].textAbout
 
+    }
+
+    override fun onClick(button: View?) {
+        finish()
     }
 
 }
