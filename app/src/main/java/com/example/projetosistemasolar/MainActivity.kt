@@ -1,13 +1,11 @@
 package com.example.projetosistemasolar
 
 import UserListener.UserItemListenner
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
-import com.example.projetosistemasolar.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity(), UserItemListenner {
@@ -36,7 +34,11 @@ class MainActivity : AppCompatActivity(), UserItemListenner {
     }
 
     override fun onListItemClick(view: View, position: Int) {
-        Toast.makeText(this, "Item na posição $position", Toast.LENGTH_LONG).show()
+        val intention = Intent(this,DetailActivity::class.java)
+
+        intention.putExtra("position", position)
+
+        startActivity(intention)
     }
 
 }
